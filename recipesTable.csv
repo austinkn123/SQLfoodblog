@@ -1,0 +1,15 @@
+"foodid";"ease_of_prep";"favorite";"ingredients";"name";"notes";"prep_time";"rating";"type"
+2;"easy";"0";"Salmon
+salt
+pepper";"SALMON";"Bake salmon";"45 Minutes";"4 stars";"Entrée"
+3;"Hard";"1";"Cheese
+Sugar
+Graham Crackers ";"Cheesecake";"Mix ingredients
+Bake";"50 Minutes";"5 stars";"Dessert"
+4;"Easy";"1";"Potatoes
+Salt
+Oil";"Potato Chips";"Cut potatoes
+Fry
+Salt
+";"30 Minutes";"3 stars";"Snack"
+5;"Easy";"0";"Veggies";"Salad";"Mix Veggies";"10 Minutes";"1 star";"Appetizer"
